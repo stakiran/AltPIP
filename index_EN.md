@@ -1,6 +1,8 @@
 # Alt PIP
 [Japanese](index.md) | [English](index_EN.md) | [GitHub](https://github.com/stakiran/AltPIP/)
 
+![](images/260109_082311.png)
+
 ## The limits of Performance Improvement Plans
 A Performance Improvement Plan (commonly known as a PIP) effectively functions as a "marked for termination" label. To avoid legal risk, companies merely stage it as "you became eligible for termination through a legitimate process and evaluation." **The essence of a PIP is simply to "fire low performers."** That's all.
 
